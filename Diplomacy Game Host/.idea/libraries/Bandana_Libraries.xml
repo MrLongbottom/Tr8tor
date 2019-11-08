@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Bandana Libraries">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Bandana Framework 1.3.1/lib" />
+      <root url="file://$PROJECT_DIR$/../Bandana Framework 1.3.1/agents" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Bandana Framework 1.3.1/src" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../Bandana Framework 1.3.1/agents" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../Bandana Framework 1.3.1/lib" recursive="false" />
+  </library>
+</component>
