@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../Bandana Framework 1.3.1/Bandana.iml" filepath="$PROJECT_DIR$/../Bandana Framework 1.3.1/Bandana.iml" />
       <module fileurl="file://$PROJECT_DIR$/Diplomacy Game Host.iml" filepath="$PROJECT_DIR$/Diplomacy Game Host.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Tr8tor Agents/Tr8tor Agents.iml" filepath="$PROJECT_DIR$/../Tr8tor Agents/Tr8tor Agents.iml" />
     </modules>
   </component>
 </project>
